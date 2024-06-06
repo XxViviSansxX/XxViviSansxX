@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá 👋 
+
+* Estou estudando na Alura
+* Estou me desenvolvendo na linguagem JavaScript
+* Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+![image](https://github.com/XxViviSansxX/XxViviSansxX/assets/171881821/36b1f375-687d-4108-aa37-589d30771dcd)
 
 <!--
 **XxViviSansxX/XxViviSansxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
